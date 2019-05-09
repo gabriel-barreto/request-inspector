@@ -1,5 +1,6 @@
 {
-    "name": "req-log",
+    "name": "request-inspector",
+    "description": "See the most important part of your requests logging out on your console! ;)",
     "version": "1.0.0",
     "main": "app.js",
     "license": "MIT",
